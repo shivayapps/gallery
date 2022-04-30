@@ -1,0 +1,17 @@
+{
+    "response_code": "true",
+    "response_message": "success",
+    "data": {
+        "response_data": {
+            "fonts": {
+                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryFonts.zip"
+            },
+            "overlay": {
+                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryOverLays.zip"
+            },
+            "sticker": {
+                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryStickers.zip"
+            }
+        }
+    }
+}
