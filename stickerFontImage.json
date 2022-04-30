@@ -4,13 +4,13 @@
     "data": {
         "response_data": {
             "fonts": {
-                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryFonts.zip"
+                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryFonts.zip"
             },
             "overlay": {
-                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryOverLays.zip"
+                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryOverLays.zip"
             },
             "sticker": {
-                "path": "https://dairylock.sgp1.digitaloceanspaces.com/Gallery/GalleryStickers.zip"
+                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryStickers.zip"
             }
         }
     }
