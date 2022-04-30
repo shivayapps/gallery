@@ -4,13 +4,13 @@
     "data": {
         "response_data": {
             "fonts": {
-                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryFonts.zip"
+                "path": "https://github.com/shivayapps/gallery/raw/main/GalleryFonts.zip"
             },
             "overlay": {
-                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryOverLays.zip"
+                "path": "https://github.com/shivayapps/gallery/raw/main/GalleryOverLays.zip"
             },
             "sticker": {
-                "path": "https://github.com/shivayapps/gallery/blob/main/GalleryStickers.zip"
+                "path": "https://github.com/shivayapps/gallery/raw/main/GalleryStickers.zip"
             }
         }
     }
